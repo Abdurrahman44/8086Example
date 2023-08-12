@@ -1,6 +1,7 @@
 /*Burada 8086 code kullanarak bir matrix islemi sağlar.
 Abdurrahman Gökta
 goktasabdurrahman44@gmail.com
+!!kullanılması istenirse bu kısmın silinmesi lazım!! 
 */
 
 
